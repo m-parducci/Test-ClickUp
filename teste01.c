@@ -2,6 +2,6 @@
 
 int main (void){
     printf("Hello turminha! \n");
-    //c
+    //comentario 1
     return 0; 
 }
